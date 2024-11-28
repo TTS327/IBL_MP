@@ -15,6 +15,7 @@ vcpkg install directxtk:x64-windows
 
 vcpkg install assimp:x64-windows
 
+sphere 형식으로 실행. 다른 모델로 확인 시 DX11Example.cpp 120 라인 ReadFromFile에서 파일 위치 지정 필요
 
 
 fresnel 전 후 비교
